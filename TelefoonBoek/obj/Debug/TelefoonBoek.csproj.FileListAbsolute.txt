@@ -1,0 +1,6 @@
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\bin\Debug\TelefoonBoek.exe.config
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\bin\Debug\TelefoonBoek.exe
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\bin\Debug\TelefoonBoek.pdb
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\obj\Debug\TelefoonBoek.csprojResolveAssemblyReference.cache
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\obj\Debug\TelefoonBoek.exe
+C:\Users\Nurleyanti\Documents\Avans\2\Prog5\TelefoonBoek\TelefoonBoek\obj\Debug\TelefoonBoek.pdb
